@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalyanbhetwal
-- I am interested in Programming Languages, HPC, Computer Architecture, etc.
+- I am interested in Programming Language, HPC, Computer Architecture, etc.
 
 <!---
 kalyanbhetwal/kalyanbhetwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
